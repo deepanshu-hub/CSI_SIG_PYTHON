@@ -1,0 +1,6 @@
+f = open("C:/users/Dell/desktop/text.txt", "a")
+f.write(" Task completed successfuly \n")
+f.close()
+file1 = open("C:/users/Dell/desktop/text.txt", "r")
+print(file1.read())
+file1.close()

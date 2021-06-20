@@ -1,0 +1,5 @@
+set1 = set(int(var) for var in input("Enter the set items : ").split())
+print(set1)
+n = int (input("Enter the element you want to delete "))
+set1.remove(n)
+print(set1)
