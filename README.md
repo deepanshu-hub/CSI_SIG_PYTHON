@@ -38,5 +38,16 @@ Topics Learned
 
        loops in diffrent datatypes
 
-[MODULE 4]()
+[MODULE 4](https://github.com/deepanshu-hub/CSI_SIG_PYTHON/tree/master/Module%204)
+
+Topics Learned
+
+•	input function in Pyhton
+
+•	Output formating in Pyhton
+
+•	Break & Continiue in Python
+
+[MODULE 5]()
+
 
