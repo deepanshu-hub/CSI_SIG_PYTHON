@@ -42,12 +42,62 @@ Topics Learned
 
 Topics Learned
 
-•	input function in Pyhton
+•	Input function in Pyhton
 
 •	Output formating in Pyhton
 
 •	Break & Continiue in Python
 
-[MODULE 5]()
+[MODULE 5](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	Strings in Python
+
+•	List in Python
+
+[MODULE 6](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	Dictionary in Python
+
+•	Tuple in Python
+
+•	Sets in Python
+
+[MODULE 7](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	User defined function in Python
+
+•	Modules in Python
+
+•	Membership & Identity operator in Python
+
+[MODULE 8](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	List Comprehension in Python
+
+•	Dictinary Comprehension in Python
+
+•	Set Comprehension in Python
+
+[MODULE 9](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	File Handiling in Python
+
+[MODULE 10](https://github.com/deepanshu-hub/CSI_SIG_PYTHON)
+
+Topics Learned
+
+•	Classes & Objects in Python
+
+
 
 
