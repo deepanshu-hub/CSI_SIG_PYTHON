@@ -10,4 +10,17 @@ Topics Learned
 
 •	Hello World in Python
 
-[MODULLE 2]()
+[MODULE 3](https://github.com/deepanshu-hub/CSI_SIG_PYTHON/tree/master/Modue%203)
+
+Topics Learned
+
+•	Syntax
+
+•	Datatype
+
+•	Variable
+
+•	Operator
+
+[MODULE 4]()
+
